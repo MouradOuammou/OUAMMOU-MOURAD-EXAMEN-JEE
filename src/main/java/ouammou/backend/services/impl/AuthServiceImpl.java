@@ -13,6 +13,7 @@ import ouammou.backend.dtos.*;
 import ouammou.backend.entites.*;
 import ouammou.backend.mappers.UserMapper;
 import ouammou.backend.repositories.*;
+import ouammou.backend.security.JwtTokenProvider;
 import ouammou.backend.services.AuthService;
 
 
